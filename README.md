@@ -12,7 +12,7 @@ Develop a sophisticated payment gateway interface that simulates processing paym
 
 <h4>Tech Stack:</h4>
 <ol>
-  <li>Front-End: NEXTJS, Tailwind CSS</li>
+  <li>Front-End: NEXTJS, Tailwind CSS, Typescript</li>
   <li>Back-End: Flask</li>
   <li>ML Model: Python</li>
 </ol>
