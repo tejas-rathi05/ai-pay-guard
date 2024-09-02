@@ -11,6 +11,9 @@ Develop a sophisticated payment gateway interface that simulates processing paym
 - Transaction Insights: Use AI to analyze transaction patterns and provide insights (e.g., common transaction times, high-risk areas).
 
 <h4>Tech Stack:</h4>
-1. Front-End: NEXTJS, Tailwind CSS
-2. Back-End: Flask
-3. ML Model: Python
+<ol>
+  <li>Front-End: NEXTJS, Tailwind CSS</li>
+  <li>Back-End: Flask</li>
+  <li>ML Model: Python</li>
+</ol>
+
